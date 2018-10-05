@@ -76,7 +76,7 @@ body
         -ms-transform: rotateX(180deg);
          -o-transform: rotateX(180deg);
             transform: rotateX(180deg);
-    opacity: .8;
+    opacity: .5;
     background: #000;
             backface-visibility: hidden;
     -webkit-backface-visibility: hidden;
